@@ -1,0 +1,4 @@
+{
+    "title": "Exemple de rapport",
+    "description": "Ceci est un exemple de rapport généré avec Handlebars et Puppeteer."
+}
